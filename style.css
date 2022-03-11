@@ -1,0 +1,15 @@
+.login_div1, .login_div2{
+    border-style: solid;
+    margin-left: 250px;
+    float: none;
+    padding: 10px;
+    width: 60%;
+    background-color: white;
+    
+
+
+}
+body{
+    text-align: center;
+    background-color: rgb(226, 133, 133);
+}
